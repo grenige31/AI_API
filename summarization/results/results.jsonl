@@ -1,0 +1,7 @@
+{"model": "openai_gpt_4o", "average_bertscore": {"precision": 0.717, "recall": 0.7869, "f1": 0.75}, "average_rouge": {"rouge-1": 0.2004, "rouge-2": 0.0777, "rouge-l": 0.1893}}
+{"model": "openai_gpt_4o_mini", "average_bertscore": {"precision": 0.7167, "recall": 0.7874, "f1": 0.75}, "average_rouge": {"rouge-1": 0.2055, "rouge-2": 0.0821, "rouge-l": 0.1938}}
+{"model": "openai_o3_mini", "average_bertscore": {"precision": 0.7254, "recall": 0.7609, "f1": 0.741}, "average_rouge": {"rouge-1": 0.1821, "rouge-2": 0.0682, "rouge-l": 0.1667}}
+{"model": "claude_sonnet", "average_bertscore": {"precision": 0.7079, "recall": 0.7764, "f1": 0.7401}, "average_rouge": {"rouge-1": 0.1925, "rouge-2": 0.0778, "rouge-l": 0.1779}}
+{"model": "claude_haiku", "average_bertscore": {"precision": 0.7065, "recall": 0.7764, "f1": 0.7395}, "average_rouge": {"rouge-1": 0.1877, "rouge-2": 0.0714, "rouge-l": 0.1765}}
+{"model": "gemini_flash", "average_bertscore": {"precision": 0.7317, "recall": 0.7782, "f1": 0.7538}, "average_rouge": {"rouge-1": 0.2006, "rouge-2": 0.0763, "rouge-l": 0.1863}}
+{"model": "gemini_flash_lite", "average_bertscore": {"precision": 0.7115, "recall": 0.7837, "f1": 0.7454}, "average_rouge": {"rouge-1": 0.1984, "rouge-2": 0.0777, "rouge-l": 0.1873}}

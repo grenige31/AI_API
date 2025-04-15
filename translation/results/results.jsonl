@@ -1,0 +1,8 @@
+{"model": "openai_gpt_4o", "average_bleu": 0.3214, "average_bertscore_precision": 0.86, "average_bertscore_recall": 0.859, "average_bertscore_f1": 0.8593}
+{"model": "openai_gpt_4o_mini", "average_bleu": 0.3041, "average_bertscore_precision": 0.8523, "average_bertscore_recall": 0.8526, "average_bertscore_f1": 0.8522}
+{"model": "openai_gpt_o3_mini", "average_bleu": 0.2916, "average_bertscore_precision": 0.848, "average_bertscore_recall": 0.849, "average_bertscore_f1": 0.8482}
+{"model": "claude_sonnet", "average_bleu": 0.3038, "average_bertscore_precision": 0.8288, "average_bertscore_recall": 0.8486, "average_bertscore_f1": 0.8381}
+{"model": "claude_haiku", "average_bleu": 0.2411, "average_bertscore_precision": 0.7885, "average_bertscore_recall": 0.832, "average_bertscore_f1": 0.8089}
+{"model": "deepl", "average_bleu": 0.3785, "average_bertscore_precision": 0.8739, "average_bertscore_recall": 0.8709, "average_bertscore_f1": 0.8722}
+{"model": "gemini_flash", "average_bleu": 0.2133, "average_bertscore_precision": 0.7419, "average_bertscore_recall": 0.8097, "average_bertscore_f1": 0.7712}
+{"model": "gemini_flash_lite", "average_bleu": 0.2079, "average_bertscore_precision": 0.7453, "average_bertscore_recall": 0.8119, "average_bertscore_f1": 0.7754}
